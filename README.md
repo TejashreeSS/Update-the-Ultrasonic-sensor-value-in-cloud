@@ -1,6 +1,6 @@
 # NAME: TEJASHREE SS
 # REG NO: 212224100058
-# EXP NO 7: Update the Ultrasonic sensor value in Things Mate
+# EXP NO 8: Update the Ultrasonic sensor value in Things Mate
 
 # AIM:
 To upload the Ultrasonic sensor value in the Things mate using Arduino controller.
